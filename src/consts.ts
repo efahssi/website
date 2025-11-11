@@ -3,7 +3,7 @@ import type { Metadata, Site, Socials } from "@types";
 export const SITE: Site = {
   TITLE: "Elias Fahssi",
   DESCRIPTION: "An accessible and lightweight blog using Astro Micro.",
-  EMAIL: "elias@fahssi.ca,
+  EMAIL: "elias@fahssi.ca",
   NUM_POSTS_ON_HOMEPAGE: 5,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
 };
