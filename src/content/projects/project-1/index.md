@@ -1,79 +1,20 @@
 ---
-title: "Astro Sphere"
-description: "Portfolio and blog build with astro."
-date: "03/18/2024"
-demoURL: "https://astro-sphere-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-sphere"
+title: "Medieval Manuscript Digitization"
+description: "High-resolution imagery and text encoding for British Library Cotton Nero A.x."
+date: "2025-11-01"
+demoURL: "https://digitalcollections.ucalgary.ca/archive/Gawain-Manuscript-2R3BF1FK246CX.html"
+repoURL: "https://emergingmedievalisms.ca/the-cotton-nero-a-x-project/"
 ---
 
-![Astro Sphere](/astro-sphere.jpg)
+![Astro Micro](/cotton-nero.jpg)
 
-Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on Mark Horn's personal website.
+Cotton Nero A.x. is a 14th century manuscript in the British Library. 
 
-It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
+It is the only existing copy of four important Middle English poems: [Sir Gawain and the Green Knight](https://wpsites.ucalgary.ca/gawain-ms/wp-content/uploads/sites/146/2024/01/SGGK-final.pdf), [Pearl](https://wpsites.ucalgary.ca/gawain-ms/wp-content/uploads/sites/146/2024/01/Pearl-peer-reviewed.pdf), [Patience](https://wpsites.ucalgary.ca/gawain-ms/wp-content/uploads/sites/146/2024/01/Patience-final-.pdf), and [Cleanness](https://wpsites.ucalgary.ca/gawain-ms/wp-content/uploads/sites/146/2024/01/Cleanness-critical-ed-final.pdf). The Project captured high-quality digital photographs of the entire manuscript; transcribed the entire manuscript at the highest possible level of accuracy and detail; and published critical editions of each of the individual poems. We used XML to describe manuscript features, and provided descriptions of the script and writing.
 
-## 🚀 Deploy your own
+## 📋 Objectives
 
-<div class="flex gap-2">
-  <a target="_blank" aria-label="Deploy with Vercel" href="https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-sphere">
-    <img src="/deploy_vercel.svg" />
-  </a>
-  <a target="_blank" aria-label="Deploy with Netlify" href="https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-sphere">
-    <img src="/deploy_netlify.svg" />
-  </a>
-</div>
-
-## 📋 Features
-
-- ✅ 100/100 Lighthouse performance
-- ✅ Responsive
-- ✅ Accessible
-- ✅ SEO-friendly
-- ✅ Typesafe
-- ✅ Minimal style
-- ✅ Light/Dark Theme
-- ✅ Animated UI
-- ✅ Tailwind styling
-- ✅ Auto generated sitemap
-- ✅ Auto generated RSS Feed
-- ✅ Markdown support
-- ✅ MDX Support (components in your markdown)
-- ✅ Searchable content (posts and projects)
-
-## 💯 Lighthouse score
-
-![Astro Sphere Lighthouse Score](/lighthouse-nano.jpg)
-
-## 🕊️ Lightweight
-
-All pages under 100kb (including fonts)
-
-## ⚡︎ Fast
-
-Rendered in ~40ms on localhost
-
-## 📄 Configuration
-
-The blog posts on the demo serve as the documentation and configuration.
-
-## 💻 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, etc
-
-| Command                   | Action                                            |
-| :------------------------ | :------------------------------------------------ |
-| `npm install`             | Installs dependencies                             |
-| `npm run dev`             | Starts local dev server at `localhost:4321`       |
-| `npm run sync`            | Generates TypeScript types for all Astro modules. |
-| `npm run build`           | Build your production site to `./dist/`           |
-| `npm run preview`         | Preview your build locally, before deploying      |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check`  |
-| `npm run astro -- --help` | Get help using the Astro CLI                      |
-| `npm run lint`            | Run ESLint                                        |
-| `npm run lint:fix`        | Auto-fix ESLint issues                            |
-
-## 🏛️ License
-
-MIT
+- Publish high-quality digital photographs of the entire manuscript to facilitate future research and public access.
+- Transcribe the entire manuscript at the highest possible level of accuracy and detail.
+- Pproduce editions of each of the individual poems in which the digital facsimiles and the new transcriptions serve as a basis for a new critical text with glossary, full-textual and explanatory notes, and other supports for readers.
+- Develop markup schema using XML and XSLT to render manuscript features on-screen.
