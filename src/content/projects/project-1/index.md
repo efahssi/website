@@ -10,6 +10,7 @@ repoURL: "https://emergingmedievalisms.ca/the-cotton-nero-a-x-project/"
 
 Cotton Nero A.x. is a 14th century manuscript in the British Library. 
 
+## 🔎 Overview
 It is the only existing copy of four important Middle English poems: [Sir Gawain and the Green Knight](https://wpsites.ucalgary.ca/gawain-ms/wp-content/uploads/sites/146/2024/01/SGGK-final.pdf), [Pearl](https://wpsites.ucalgary.ca/gawain-ms/wp-content/uploads/sites/146/2024/01/Pearl-peer-reviewed.pdf), [Patience](https://wpsites.ucalgary.ca/gawain-ms/wp-content/uploads/sites/146/2024/01/Patience-final-.pdf), and [Cleanness](https://wpsites.ucalgary.ca/gawain-ms/wp-content/uploads/sites/146/2024/01/Cleanness-critical-ed-final.pdf). The Project captured high-quality digital photographs of the entire manuscript; transcribed the entire manuscript at the highest possible level of accuracy and detail; and published critical editions of each of the individual poems. We used XML to describe manuscript features, and provided descriptions of the script and writing.
 
 ## 📋 Objectives
