@@ -1,43 +1,41 @@
 ---
-title: "Rapid Response: Tariff Discussion Board"
-description: "Shipping a member networking platform in 5 weeks to address urgent business uncertainty during tariff announcements."
-date: "2025-03-15"
+title: "Zero-Downtime Agency Transition"
+description: "De-risking a critical vendor transition while maintaining product velocity and realizing $190K in annual savings."
+date: "2025-01-15"
 demoURL: ""
 repoURL: ""
 ---
 
-![Tariff Discussion Board](/tariff-board.jpg)
+![Agency Transition](/agency-transition.jpg)
 
-When Trump tariff announcements in early 2025 created widespread uncertainty, TEC Canada's CEO and business leader members needed a way to connect with peers, share insights, and navigate the rapidly changing landscape together.
+A membership organization serving 2,000 busy CEOs and business leaders needed to transition their mission-critical mobile and web app to a new development agency without disrupting service.
 
 ## 🔎 Overview
 
-The request came directly from executive leadership and member feedback: CEOs were facing unprecedented tariff uncertainty and wanted to discuss implications with peers outside their immediate peer groups. The organization needed to respond quickly to provide value during a critical moment.
+During onboarding as Product Manager, I audited the existing development contract and discovered a structural misalignment: the agency's SaaS-style pricing ($X per user) created perverse incentives that ran counter to our organizational goal of membership growth. Every new member increased our technology costs. Combined with the need to evolve the product in a new strategic direction, we determined a vendor transition was necessary.
 
-Leadership initially wanted an even faster turnaround, but I established a 5-week timeline that balanced speed with quality. The challenge was building something members would actually use—not just shipping quickly for optics.
+The app was originally built as a pandemic response and had evolved organically over time. It was now core infrastructure for our business—managing peer group meetings, attendance, scheduling, and exclusive member content access. Any downtime would be unacceptable.
 
 ## 📋 Approach
 
-**Build vs. Buy Analysis**  
-I evaluated multiple platform options, including leveraging our existing Learning Management System. The LMS proved not viable for real-time discussion. After assessing trade-offs, I recommended deploying established forum software with custom add-ons we would build and manage as the 'internal product.'
+**Evaluation & Selection**  
+Rather than a lengthy RFP process, I identified an agency already building complementary tools for the organization. Consolidating development efforts would reduce coordination overhead and align incentives.
 
-**Prioritization Framework**  
-Working solo as Product Manager with a shared UX/Solution Designer, I used MoSCoW prioritization (Must Have, Should Have, Could Have, Won't Have) to drive rapid decision-making. I reverse-engineered success metrics from the business ask and published them as product requirements, giving the team clear targets.
+**Transition Strategy**  
+I designed a three-phase approach:
+1. **Internal Knowledge Capture (1 month)**: I documented the app infrastructure, created journey maps, and established a knowledge base—working around political sensitivities with previous executives who had signed the original contract.
+2. **Structured Handoff (2 months)**: Collected key deliverables covering tech stack, codebase, deployment pipeline, and DevOps whilst maintaining parallel development.
+3. **Hard Cutover**: Executed the transition with zero production incidents.
 
-**Product Vision**  
-I created internal artifacts articulating the product vision: enable peer-to-peer connection around time-sensitive business challenges, starting with tariffs but extensible to other topics. This framing helped stakeholders see beyond the immediate ask to longer-term value.
+**Risk Mitigation**  
+The primary risk was downtime to a system critical for daily operations. I established clear acceptance criteria, coordinated parallel testing environments, and maintained continuous communication between both agencies and internal stakeholders to surface issues early.
 
 ## 📊 Results
 
-**Launch & Adoption**  
-- Shipped functional discussion board in 5 weeks
-- Strong initial engagement from members navigating tariff uncertainty
-- Featured in quarterly member surveys as "something new TEC offered that increased membership value"
+- **$190K annual cost savings** from optimized pricing structure aligned with business goals
+- **Zero production incidents** during transition
+- **Maintained sprint velocity** throughout handoff period
+- **Consolidated vendor relationships**, reducing coordination overhead and improving product coherence
+- Positioned the product for strategic evolution with agency better suited to our roadmap
 
-**Evolution**  
-As tariff uncertainty declined, member usage naturally evolved. Rather than fading, the platform became a general-purpose discussion board where members network and connect with peers outside their immediate groups or regions. It's now a core membership offering.
-
-**Strategic Impact**  
-The rapid launch demonstrated organizational responsiveness during a critical moment. More importantly, it validated a new product capability—peer-to-peer async networking—that complemented our existing synchronous peer group model. This informed future roadmap decisions about community features.
-
-The project proved that speed doesn't require cutting corners when you have clear prioritization, smart build-vs-buy decisions, and focus on genuine user need over feature bloat.
+The transition demonstrated that thoughtful planning, clear documentation, and stakeholder alignment can de-risk even the most critical vendor changes.
