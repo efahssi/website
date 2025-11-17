@@ -1,7 +1,7 @@
 ---
 title: "Zero-Downtime Agency Transition"
 description: "De-risking a critical vendor transition while maintaining product velocity and realizing $190K in annual savings."
-date: "2025-01-15"
+date: "2025-09-15"
 demoURL: ""
 repoURL: ""
 ---

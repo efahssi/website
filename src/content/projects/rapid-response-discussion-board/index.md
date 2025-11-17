@@ -1,7 +1,7 @@
 ---
 title: "Rapid Response: Tariff Discussion Board"
 description: "Shipping a member networking platform in 5 weeks to address urgent business uncertainty during tariff announcements."
-date: "2025-03-15"
+date: "2025-05-15"
 demoURL: ""
 repoURL: ""
 ---

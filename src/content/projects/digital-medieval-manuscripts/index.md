@@ -1,7 +1,7 @@
 ---
 title: "Medieval Manuscript Digitization"
 description: "High-resolution imagery and text encoding for British Library Cotton Nero A.x."
-date: "2025-11-01"
+date: "2012-11-01"
 demoURL: "https://digitalcollections.ucalgary.ca/archive/Gawain-Manuscript-2R3BF1FK246CX.html"
 repoURL: "https://emergingmedievalisms.ca/the-cotton-nero-a-x-project/"
 ---
