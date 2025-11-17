@@ -6,7 +6,7 @@ demoURL: ""
 repoURL: ""
 ---
 
-![Agency Transition](/agency-transition.jpg)
+![Agency Transition](/agency-transition.png)
 
 A membership organization serving 2,000 busy CEOs and business leaders needed to transition their mission-critical mobile and web app to a new development agency without disrupting service.
 
