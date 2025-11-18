@@ -1,6 +1,6 @@
 ---
-title: "Zero-Downtime Agency Transition"
-description: "De-risking a critical vendor transition while maintaining product continuity and realizing $190K in annual savings."
+title: "Zero-Downtime Developer Transition"
+description: "De-risking a critical agency transition while maintaining product continuity and realizing $190K in annual savings."
 date: "2025-09-15"
 demoURL: ""
 repoURL: ""
@@ -24,7 +24,7 @@ Rather than a lengthy RFP process, I identified an agency already building compl
 **Transition Strategy**  
 I designed a three-phase approach:
 1. **Internal Knowledge Capture (1 month)**: I documented the app infrastructure, created journey maps, and established a knowledge base—working around political sensitivities with previous executives who had signed the original contract.
-2. **Structured Handoff (2 months)**: Collected key deliverables covering tech stack, codebase, deployment pipeline, and DevOps whilst maintaining parallel development.
+2. **Structured Handoff (2 months)**: Collected key deliverables covering tech stack, codebase, deployment pipeline, and DevOps while maintaining parallel development.
 3. **Hard Cutover**: Executed the transition with zero production incidents.
 
 **Risk Mitigation**  

@@ -12,7 +12,7 @@ WBM Technologies had a repeatable problem: custom meeting room technology implem
 
 ## 🔎 Overview
 
-WBM's business model was built on custom IT projects with upfront fees and ongoing Managed Service Provider (MSP) contracts. This worked, but left money on the table. We kept hearing the same client pain point: "Our meeting room experience is broken—people can't connect, quality is poor, technology doesn't work."
+WBM's business model was built on custom IT projects with upfront fees and ongoing Managed Service Provider (MSP) contracts. This worked, but left money on the table. We kept hearing the same client pain point: "Our meeting room experience is broken; people can't connect, quality is poor, technology doesn't work."
 
 Coming from DIRTT where I'd worked extensively with integrated meeting technology, I recognized this as a highly repeatable problem that would benefit from standardized solutions. The timing was right: Microsoft was pushing Teams Rooms and meeting technology hard, and clients needed help implementing it well.
 
@@ -31,7 +31,7 @@ The shift to productized offerings required sales training and new collateral. I
 - Pitch decks and one-pagers for standard configurations
 - Talk tracks to build confidence: "We know meeting rooms are broken. We can fix it."
 - Objection handling guides
-- Signal identification training—when to pitch the product vs. pursue custom deals
+- Signal identification training: when to pitch the product vs. pursue custom deals
 
 The key message to sales: productization reduces load on custom work, but we can still respond when clients truly need bespoke solutions.
 
@@ -52,4 +52,4 @@ The productization unlocked scalability. Instead of starting from scratch with e
 The productized approach positioned WBM as a serious Microsoft partner. I leveraged this to secure **$400K in Microsoft market development funds**, further accelerating growth and co-marketing opportunities.
 
 **Key Learning**  
-Productization isn't about eliminating customization—it's about creating a strong foundation that handles 80% of use cases, letting you reserve custom work for clients who genuinely need it. The menu-based approach gave sales flexibility whilst maintaining delivery efficiency.
+Productization isn't about eliminating customization— it's about creating a strong foundation that handles 80% of use cases, letting you reserve custom work for clients who genuinely need it. The menu-based approach gave sales flexibility whilst maintaining delivery efficiency.

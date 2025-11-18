@@ -14,7 +14,7 @@ When Trump tariff announcements in early 2025 created widespread uncertainty, TE
 
 The request came directly from executive leadership and member feedback: CEOs were facing unprecedented tariff uncertainty and wanted to discuss implications with peers outside their immediate peer groups. The organization needed to respond quickly to provide value during a critical moment.
 
-Leadership initially wanted an even faster turnaround, but I established a 5-week timeline that balanced speed with quality. The challenge was building something members would actually use—not just shipping quickly for optics.
+Leadership initially wanted an even faster turnaround, but I established a 5-week timeline that balanced speed with quality. The challenge was building something members would actually use— not just shipping quickly for optics.
 
 ## 📋 Approach
 
