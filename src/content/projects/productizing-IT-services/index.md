@@ -52,4 +52,4 @@ The productization unlocked scalability. Instead of starting from scratch with e
 The productized approach positioned WBM as a serious Microsoft partner. I leveraged this to secure **$400K in Microsoft market development funds**, further accelerating growth and co-marketing opportunities.
 
 **Key Learning**  
-Productization isn't about eliminating customization— it's about creating a strong foundation that handles 80% of use cases, letting you reserve custom work for clients who genuinely need it. The menu-based approach gave sales flexibility whilst maintaining delivery efficiency.
+Productization isn't about eliminating customization: it's about creating a strong foundation that handles 80% of use cases, letting you reserve custom work for clients who genuinely need it. The menu-based approach gave sales flexibility while maintaining delivery efficiency.
